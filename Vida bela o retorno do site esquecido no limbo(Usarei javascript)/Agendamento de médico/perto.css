@@ -1,0 +1,9 @@
+*{
+    background-color: #ABDCFF;
+}
+
+.cabecalho{
+    display: flex;
+    justify-content: space-around;
+}
+

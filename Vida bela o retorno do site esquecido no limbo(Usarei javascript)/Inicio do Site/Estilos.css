@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: #DCE7FF;
+}
+
+.header{
+    background-color: white;
+}
+
+.cabecalho {
+    background-color: transparent;
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+}
+
+.imagem{
+    background-color: transparent;
+}
+
+.Sobre_nós{
+    display: flex;
+    flex-direction: row;
+}
+
+.cadastro{
+    border: 1px solid white;
+    border-radius: 90px ;
+    border-color: transparent;
+    padding: 10px;
+    background-color: #89D3FF;
+    }
+
+.login{
+    order: 1px solid white;
+    border-radius: 90px ;
+    border-color: transparent;
+    padding: 10px;
+    background-color: #C7DAF5;
+   }
+
+.texto{
+    background-color: transparent;
+}
+
+button{
+    display: flex;
+    flex-direction: row;
+}
+
+.cadastro_e_login{
+    display: flex;
+    flex-direction: row;
+}
